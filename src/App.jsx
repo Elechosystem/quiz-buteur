@@ -1185,7 +1185,7 @@ export default function App() {
           </button>
           <button 
             onClick={() => setScreen('superAdminLogin')}
-            className="bg-red-600 text-white px-12 py-8 rounded-2xl text-3xl font-black hover:bg-red-500 transition-all shadow-2xl shadow-red-700/40 border-4 border-red-500"
+            className="bg-gray-700 text-white px-12 py-8 rounded-2xl text-3xl font-black hover:bg-gray-600 transition-all shadow-2xl shadow-gray-900/40 border-4 border-gray-500"
           >
             👑 GESTIONNAIRE
           </button>
